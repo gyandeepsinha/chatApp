@@ -4,12 +4,12 @@ A simple project contains a chat layout.
 I have developed this project for learning basic socket.io use. In this project, you can enter a username and room name to start chatting.
 
 ## What You Need to run this project
-============================================================================<br>
+=========================================================================<br>
 <b>Nodejs :</b>You need to download and install the node js setup and setup environment variable for running node.js server. (https://nodejs.org/en/) please use the given url to download the setup and please install the recommended version.<br>
 
 
 ## How to run this code
-============================================================================<br>
+=========================================================================<br>
 I am assuming that you have installed all the required setup for the project. <br>
 step-1 : open this project in any editor(vscode or sublime) as per your choice and use command npm install to install all NPM modules.<br>
 step-2 : open command prompt and reach to your project folder and write node node index.js (In my case my main file name is index.js).<br>
