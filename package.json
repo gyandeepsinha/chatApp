@@ -1,0 +1,26 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Real timechat-application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gyandeepsinha/chat-app.git"
+  },
+  "author": "Gyandeep Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gyandeepsinha/chat-app/issues"
+  },
+  "homepage": "https://github.com/gyandeepsinha/chat-app#readme",
+  "dependencies": {
+    "bad-words": "^3.0.4",
+    "express": "^4.18.1",
+    "path": "^0.12.7",
+    "socket.io": "^4.5.2"
+  }
+}
